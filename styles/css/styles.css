@@ -27,17 +27,17 @@ body {
   box-sizing: border-box;
 }
 
-.menuList {
+.catList {
   list-style-type: none;
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
 }
-.menuList li {
+.catList li {
   padding: 15px;
   cursor: pointer;
 }
-.menuList li:hover {
+.catList li:hover {
   box-shadow: 0 0 5px;
 }
 
